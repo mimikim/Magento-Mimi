@@ -2,6 +2,7 @@
 .DS_Store
 .htaccess
 .idea/
+.sass-cache/
 app/code/
 app/design/adminhtml/
 app/design/frontend/base/
